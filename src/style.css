@@ -6,40 +6,38 @@ body {
 	justify-content: center;
 	min-height: 100vh;
 	margin: 0;
-  }
-  
-  #gameMenu {
+}
+
+#gameMenu {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	margin-bottom: 20px;
-  }
-  
-  #gameControlButtons {
+}
+
+#gameControlButtons {
 	display: flex;
 	gap: 10px;
 	margin-bottom: 10px;
-  }
-  
-  #gameRunningInfo {
+}
+
+#gameRunningInfo {
 	display: flex;
 	justify-content: space-between;
 	width: 100%;
 	max-width: 600px;
 	margin-bottom: 20px;
-  }
-  
-  #gameplayArea {
+}
+
+#gameplayArea {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	gap: 10px;
 	width: 100%;
 	max-width: 600px;
-  }
-  
-  .whackamoleSpawnArea {
-	width: calc(
-	  20% - 10px
-	);
-  }
+}
+
+.whackamoleSpawnArea {
+	width: calc(20% - 10px);
+}
