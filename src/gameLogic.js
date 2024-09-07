@@ -291,9 +291,6 @@ stopGameButton.addEventListener("click", () => {
 
 
 
-
-
-
 // let isGameRunning = false; 
 
 // if (isGameRunning){
